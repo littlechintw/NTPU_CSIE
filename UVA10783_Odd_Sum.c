@@ -9,8 +9,7 @@ int main(void){
 	for(int i=0;i<n;i++){
 		int x,y;
 		int mix;
-		scanf("%d",&x);
-		scanf("%d",&y);
+		scanf("%d %d",&x,&y);
 		if(x%2==0){
 			x+=1;
 		}
