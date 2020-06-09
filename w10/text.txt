@@ -1,0 +1,1 @@
+Trust-based recommendation methods assume the additional knowledge of a trust network among users and can better deal with cold start users , since users only need to be simply connected to the trust network .
